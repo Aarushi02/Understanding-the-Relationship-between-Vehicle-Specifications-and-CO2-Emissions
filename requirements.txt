@@ -1,0 +1,12 @@
+IPython
+dash
+ipykernel
+jupyter
+matplotlib
+nbconvert
+nbformat
+numpy
+pandas
+plotly
+scikit-learn
+seaborn
