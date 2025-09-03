@@ -1,0 +1,2 @@
+# Understanding-the-Relationship-between-Vehicle-Specifications-and-CO2-Emissions
+This project analyzes CO₂ emissions from vehicles using a combination of data wrangling, exploratory analysis, SQL integration and machine learning techniques. The dataset undergoes thorough cleaning and preprocessing, followed by structured analysis to uncover insights into the relationships between vehicle features and their environmental impact.
