@@ -245,5 +245,7 @@ Then open: `http://localhost:8060`
 - **Figures**: generated during analysis (distribution, scatter plots, heatmap, feature importances)  
 - **Model Metrics**: printed in the console (MAE, RMSE, R²)
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
